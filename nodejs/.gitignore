@@ -1,0 +1,11 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+tmp
+config
+
+# Local development
+*.env
+*.dev
+.idea
+.DS_Store
